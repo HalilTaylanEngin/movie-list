@@ -1,0 +1,18 @@
+{
+  "movieList": [
+    {
+      "title": "Kod 8 (2019)",
+      "vote_average": "62",
+      "overview": "Jeff Chan'in yönettiği uzun metrajlı Code 8 filmi, kısa filmde olduğu gibi, nüfusun %4'ünün doğaüstü yeteneklerle doğduğu, ancak kahraman olarak kabul edilmek yerine, ayrımcılığa uğradıkları ve yoksulluk içinde yaşadıkları bir dünyada geçiyor. Özel güçlere sahip insanların birçoğu hayatta kalmak için suça başvuruyor. Code 8'de Connor Reed de bu insanlardan biri ve hasta annesinin tedavi masraflarını karşılamaya çalışıyor. Gündelik işlerde çalışmak yetmiyor ve Connor Garrett liderliğindeki bir suç operasyonuna sürükleniyor.",
+      "poster_path": "https://www.themoviedb.org/t/p/w220_and_h330_face/izGX7npHEopDQvngYcxMJEfcFbj.jpg",
+      "id": 1
+    },
+    {
+      "title": "Sünger Bob Kare Pantolon: Firarda (2020)",
+      "vote_average": "78",
+      "overview": "En iyi arkadaşı Gary aniden kaçırılınca Sünger Bob, pembe kabuklu dostunu kurtarmak için Patrick ile birlikte Bikini Kasabası'nın çok ötesinde çılgın bir göreve çıkar.",
+      "poster_path": "https://www.themoviedb.org/t/p/w220_and_h330_face/mGsxKGrvAKMIIOcwK9GpcWwFT9N.jpg",
+      "id": 2
+    }
+  ]
+}
